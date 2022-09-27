@@ -1,0 +1,15 @@
+**.output
+**.out
+**.gz
+**.ccls-cache
+**/.gdb_*
+**/*.o
+**/*.elf
+**/*.img
+**/*.log
+runner
+runner-command
+runner-parsing
+leaktest
+.depend
+.vscode/
